@@ -24,7 +24,9 @@ How to Run this program:
 1.Make a config file by name "FTPcredentials.config" with the following content in the same directory as jar file:
 
 server = xx.xx.xxx
+
 username = xxx
+
 password = xxx
 
 2.Double click ReorganizeRunFilesv1.6.jar
