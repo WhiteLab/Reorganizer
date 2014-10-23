@@ -22,7 +22,7 @@ Source code for this program is uploaded to GitHub
 How to Run this program:
 
 1.Make a config file by name "FTPcredentials.config" with the following content in the same directory as jar file:
-# FTP credentials
+##FTP credentials
 server = xx.xx.xxx
 username = xxx
 password = xxx
